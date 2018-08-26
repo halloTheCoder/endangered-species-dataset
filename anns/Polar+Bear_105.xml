@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Polar+Bear</folder>
+	<filename>Polar+Bear_105.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Polar+Bear/polar-bear-staring-at-ocean-endeavour-adventure-canada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar Bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2060</xmin>
+			<ymin>1521</ymin>
+			<xmax>5167</xmax>
+			<ymax>3614</ymax>
+		</bndbox>
+	</object>
+</annotation>

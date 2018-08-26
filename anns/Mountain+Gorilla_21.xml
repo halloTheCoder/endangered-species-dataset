@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mountain+Gorilla</folder>
+	<filename>Mountain+Gorilla_21.JPG</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Mountain+Gorilla/220px-Silverback_of_Ntambara_group.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goriila</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>76</ymin>
+			<xmax>196</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

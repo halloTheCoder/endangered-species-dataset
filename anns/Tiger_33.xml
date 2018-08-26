@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_33.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/20110618_232e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>2</ymin>
+			<xmax>671</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

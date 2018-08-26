@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Polar+Bear</folder>
+	<filename>Polar+Bear_5.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Polar+Bear/34919606_xxl-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1750</width>
+		<height>1132</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar Bear</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>45</ymin>
+			<xmax>1424</xmax>
+			<ymax>1132</ymax>
+		</bndbox>
+	</object>
+</annotation>

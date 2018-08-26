@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_92.png</filename>
+	<path>/media/akash/Local Disk/datasets/dog/2015-Calendar-174-m-e1418407879419.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>251</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>11</ymin>
+			<xmax>242</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

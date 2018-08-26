@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_18.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/143-161544-red-panda-escapes-1485978732.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>21</ymin>
+			<xmax>750</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

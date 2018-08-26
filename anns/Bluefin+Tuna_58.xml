@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Bluefin+Tuna</folder>
+	<filename>Bluefin+Tuna_58.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Bluefin+Tuna/bluefin_tuna_malta.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bluefina Tuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>70</ymin>
+			<xmax>472</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bluefina Tuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>12</ymin>
+			<xmax>255</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bluefina Tuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>269</ymin>
+			<xmax>372</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

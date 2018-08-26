@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_101.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/160328-news-cat-dialects-vin_thumbnail_ds1602001-47_640x360_653681219883.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>3</ymin>
+			<xmax>554</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

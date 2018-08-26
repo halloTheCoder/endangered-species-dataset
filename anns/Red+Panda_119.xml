@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_119.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/redpanda-kCWC--621x414@LiveMint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>207</ymin>
+			<xmax>482</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>165</ymin>
+			<xmax>418</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

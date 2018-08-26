@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_108.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/Snow-Red-Panda-Zoo-Chinese-Panda-Play-1985466.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>83</ymin>
+			<xmax>705</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

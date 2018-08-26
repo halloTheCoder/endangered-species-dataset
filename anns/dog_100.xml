@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_100.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/47BF845000000578-5234837-Ronnie_was_left_at_Battersea_Dogs_and_Cats_Home_in_south_London_-a-80_1515077199326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>962</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>64</ymin>
+			<xmax>783</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>

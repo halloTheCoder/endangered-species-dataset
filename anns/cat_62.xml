@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_62.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/200777-425x322-kitten_crop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>74</ymin>
+			<xmax>411</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

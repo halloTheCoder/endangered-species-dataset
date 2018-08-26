@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mountain+Gorilla</folder>
+	<filename>Mountain+Gorilla_52.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Mountain+Gorilla/full_EEE8AD62-E480-B00B-C4E761AAB6BAC40A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goriila</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>26</ymin>
+			<xmax>525</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_98.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/its-international-tiger-day--here-is-everything-you-ever-wanted-to-know-about-these-stunning-wild-cats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1190</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>17</ymin>
+			<xmax>996</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

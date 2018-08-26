@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_54.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/a-large-tiger-in-bandhavgarh-national-park-madhya-pradesh-india-163243396-57ffdb563df78cbc2893cc4b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5221</width>
+		<height>3481</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>540</ymin>
+			<xmax>4307</xmax>
+			<ymax>2790</ymax>
+		</bndbox>
+	</object>
+</annotation>

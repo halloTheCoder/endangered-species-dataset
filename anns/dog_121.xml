@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_121.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/9-science-backed-reasons-to-own-a-dog.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3296</width>
+		<height>2497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1079</xmin>
+			<ymin>187</ymin>
+			<xmax>2830</xmax>
+			<ymax>2462</ymax>
+		</bndbox>
+	</object>
+</annotation>

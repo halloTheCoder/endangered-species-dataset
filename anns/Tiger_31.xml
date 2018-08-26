@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_31.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/9319-close-up-of-a-tiger-growling-pv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>959</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>30</ymin>
+			<xmax>948</xmax>
+			<ymax>959</ymax>
+		</bndbox>
+	</object>
+</annotation>

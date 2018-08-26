@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_144.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/caturday-shutterstock_149320799.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>74</ymin>
+			<xmax>538</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

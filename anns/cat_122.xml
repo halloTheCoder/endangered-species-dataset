@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_122.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/5acb63d83493f__700-png.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>13</ymin>
+			<xmax>339</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>50</ymin>
+			<xmax>698</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

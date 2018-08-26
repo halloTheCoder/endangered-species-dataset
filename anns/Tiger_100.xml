@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_100.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/liger-vs-tiger-growth-rate.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>63</ymin>
+			<xmax>284</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

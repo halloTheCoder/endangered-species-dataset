@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_109.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/poster-sibirischer-tiger-im-schnee-1558460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>15</ymin>
+			<xmax>495</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

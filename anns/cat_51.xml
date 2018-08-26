@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_51.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/hi-human-3-wallpaper-background-1080x1920.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>165</ymin>
+			<xmax>962</xmax>
+			<ymax>1860</ymax>
+		</bndbox>
+	</object>
+</annotation>

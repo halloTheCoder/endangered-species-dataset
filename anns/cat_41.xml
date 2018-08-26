@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_41.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/cat-breeds-top-cat-breeds-list-of-cat-breeds_articleV3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1060</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>49</ymin>
+			<xmax>551</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>40</ymin>
+			<xmax>798</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

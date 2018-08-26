@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_64.JPG</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/bengal-tiger_thumb.ngsversion.1483737910689.adapt.1900.1.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1900</width>
+		<height>1900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>74</ymin>
+			<xmax>1900</xmax>
+			<ymax>1841</ymax>
+		</bndbox>
+	</object>
+</annotation>

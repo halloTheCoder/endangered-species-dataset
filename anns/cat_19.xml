@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_19.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/250px-Gatto_europeo4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>31</ymin>
+			<xmax>220</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

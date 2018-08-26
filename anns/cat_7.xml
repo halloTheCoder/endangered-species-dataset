@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_7.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/08-cat-scratching-post.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>138</ymin>
+			<xmax>959</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

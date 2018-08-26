@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_71.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/you-are-ignoring-me-kitty-cat-baby-kittens-cute-cat-cutest-kittens-baby-kitty-cute-kittens.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>92</ymin>
+			<xmax>327</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

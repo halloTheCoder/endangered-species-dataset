@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_92.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/are_you_concerned_about_your_cats_surgery.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>31</ymin>
+			<xmax>376</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

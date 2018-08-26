@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_64.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/welsh-corgis-dogs.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>961</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>56</ymin>
+			<xmax>402</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>206</ymin>
+			<xmax>674</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

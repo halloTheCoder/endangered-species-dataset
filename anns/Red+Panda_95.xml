@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_95.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/RGZ-Red-Panda-Cubs-2016_final-e1474479220878.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>152</ymin>
+			<xmax>559</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>95</ymin>
+			<xmax>1200</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>

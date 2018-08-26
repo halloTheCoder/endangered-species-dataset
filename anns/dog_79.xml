@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_79.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/IMG_9759-banner-1140x400-998x350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>998</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>52</ymin>
+			<xmax>638</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>57</ymin>
+			<xmax>975</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

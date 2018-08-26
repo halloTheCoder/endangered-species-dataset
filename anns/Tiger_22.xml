@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_22.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/4510546500000578-0-Cat_s_cradle_The_six_week_old_Sumatran_tiger_cub_snuggles_up_in_-a-12_1507329109373.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>962</width>
+		<height>1086</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>11</ymin>
+			<xmax>891</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>555</ymin>
+			<xmax>845</xmax>
+			<ymax>1082</ymax>
+		</bndbox>
+	</object>
+</annotation>

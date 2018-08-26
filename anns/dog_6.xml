@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_6.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/HP_PCC_lg_dog_routine_care_hero.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1366</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>148</ymin>
+			<xmax>1036</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+</annotation>

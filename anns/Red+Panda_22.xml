@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_22.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/csm_Roter_Panda__Romeo__2__f4a770cb4d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>26</ymin>
+			<xmax>397</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

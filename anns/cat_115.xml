@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_115.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/3E7E47D000000578-4335894-According_to_experts_cats_do_not_only_purr_for_pleasure_but_some-m-92_1490217261401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>34</ymin>
+			<xmax>610</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

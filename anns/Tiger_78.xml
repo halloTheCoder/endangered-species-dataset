@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_78.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/DC-367900650005-South-China-Tiger-Sanctuary,-Laohu-Valley-Reserve,-Philoppolis,-Northern-Cape,-South-Africa-11-15.12.15-Final-David-Chancellor.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1797</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>9</ymin>
+			<xmax>2004</xmax>
+			<ymax>1797</ymax>
+		</bndbox>
+	</object>
+</annotation>

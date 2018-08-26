@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_150.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/we-saved-an-one-eyed-cat-and-he-saved-us-right-back-2__880.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>880</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>77</ymin>
+			<xmax>622</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+</annotation>

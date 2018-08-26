@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_2.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/-1-Belfast-Zoo-is-celebrating-the-first-red-panda-cub-to-be-born-at-the-Cave-Hill-site-in-18-years-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1180</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>422</ymin>
+			<xmax>441</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>142</ymin>
+			<xmax>1148</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_105.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/180125-grumpy-cat-ew-300p_07034f7f044ba195b0fa288411af8621.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>110</ymin>
+			<xmax>2044</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>

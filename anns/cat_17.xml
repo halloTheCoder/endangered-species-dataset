@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_17.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/160121224634-kylo-ren-cat-adam-driver-super-169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1100</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>39</ymin>
+			<xmax>987</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>

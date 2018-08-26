@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_50.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/Nepalese%20Red%20Panda%20Image%202%20-%20Alex%20Cearns.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>192</ymin>
+			<xmax>1453</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_157.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/PARADISE-WILDLIFE-PARK-540x326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>1</ymin>
+			<xmax>444</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

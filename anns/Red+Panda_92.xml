@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_92.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/red_panda_fiery_panda_food_118144_300x168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>6</ymin>
+			<xmax>275</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

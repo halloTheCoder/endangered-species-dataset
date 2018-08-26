@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_54.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/5b50bd5351dfbe1f008b45c5-750-562.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>197</ymin>
+			<xmax>688</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

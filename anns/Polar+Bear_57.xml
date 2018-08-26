@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Polar+Bear</folder>
+	<filename>Polar+Bear_57.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Polar+Bear/Heartbreaking_Video_of_Starving_Polar_Be_0_10212823_ver1.0_640_360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar Bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>50</ymin>
+			<xmax>576</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

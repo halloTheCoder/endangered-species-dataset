@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_22.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/72_a-feature_cats-and-kittens_mobile.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>40</ymin>
+			<xmax>1074</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_46.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/152964589-welcome-home-new-cat-632x475.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>4</ymin>
+			<xmax>559</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

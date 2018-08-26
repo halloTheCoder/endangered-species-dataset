@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_52.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/nn20130802b5a-870x595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>147</ymin>
+			<xmax>416</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

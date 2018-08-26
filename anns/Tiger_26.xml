@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_26.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/1usro6wsxs_Julie_Larsen_Maher_2089_Malayan_Tiger_cub_TM_BZ_09_17_10_hr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>66</ymin>
+			<xmax>941</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>

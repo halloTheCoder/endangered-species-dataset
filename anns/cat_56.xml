@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_56.webp</filename>
+	<path>/media/akash/Local Disk/datasets/cat/993a12_9cd7e2c1eba148fb9d82c7ed4ae90ed1~mv2.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>997</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>6</ymin>
+			<xmax>903</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

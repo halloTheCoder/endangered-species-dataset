@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_121.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/Sumatran_tiger-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>15</ymin>
+			<xmax>800</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

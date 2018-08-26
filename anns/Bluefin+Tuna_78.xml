@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bluefin+Tuna</folder>
+	<filename>Bluefin+Tuna_78.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Bluefin+Tuna/Pacific+bluefin+tuna-large-copyright+MONTEREY+BAY+AQUARIUM_RANDY+WILDER_dd011c62-f5b8-4c6a-92a1-07024987344b-prv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>695</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bluefina Tuna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>48</ymin>
+			<xmax>646</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

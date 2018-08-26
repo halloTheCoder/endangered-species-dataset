@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tiger</folder>
+	<filename>Tiger_76.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Tiger/csm_Sumatra-Tiger_Tierpark_Berlin_Oktober_2014_Klaus_Rudloff_8cbcb9b36c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>34</ymin>
+			<xmax>497</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

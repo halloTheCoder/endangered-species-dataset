@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Red+Panda</folder>
+	<filename>Red+Panda_115.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/Red+Panda/Ailurus%20fulgens3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>846</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>126</ymin>
+			<xmax>1129</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>

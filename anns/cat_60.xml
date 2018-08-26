@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_60.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/Cat-Tree-House-For-Your-Kitty.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1070</xmin>
+			<ymin>262</ymin>
+			<xmax>2063</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat_127.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/cat/6-reasons-cat-peeing-outside-litter-box.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>10</ymin>
+			<xmax>291</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog_46.jpg</filename>
+	<path>/media/akash/Local Disk/datasets/dog/top-10-naughtiest-pets-130214-chihuahua.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>72</ymin>
+			<xmax>780</xmax>
+			<ymax>665</ymax>
+		</bndbox>
+	</object>
+</annotation>

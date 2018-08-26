@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mountain+Gorilla</folder>
+	<filename>Mountain+Gorilla_113.jpg</filename>
+	<path>/home/anik/ML Workspace/Endangered Species/images/Mountain+Gorilla/one-of-less-than-800-wild-mountain-gorillas-left-in-the-wild-a-baby-poses-for-the-camera-Trekking-to-see-Wild-Mountain-Gorillas-in-Rwanda.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goriila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>101</ymin>
+			<xmax>359</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>
